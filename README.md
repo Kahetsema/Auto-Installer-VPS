@@ -6,7 +6,7 @@ Kenapa Harus fresh? karena takut terjadi bentrok port<br>
 Melakukan install service seperti SSH,VPN,Dropbear dll dengan script auto installer yang sangat mudah.<br>
 Caranya:<br>
 1. Login VPS<br>
-2. # wget https://raw.githubusercontent.com/rizal180499/Auto-Installer-VPS/master/debian7-32.sh <br>
+2. # wget https://raw.githubusercontent.com/kahetsema/Auto-Installer-VPS/master/debian7-32.sh <br>
 3. # chmod +x debian7-32.sh <br>
 4. # ./debian7-32.sh <br>
 5. tunggu sampai proses selesai > reboot vps anda<br>
@@ -28,7 +28,7 @@ more cek log install <br>
 Melakukan Install Web Panel SSH Reseller Secara otomatis.<br>
 Caranya:<br>
 1. Login VPS<br>
-2. # wget https://raw.githubusercontent.com/rizal180499/Auto-Installer-VPS/master/ocs_panel/ocs-deb7-32.sh <br>
+2. # wget https://raw.githubusercontent.com/kahetsema/Auto-Installer-VPS/master/ocs_panel/ocs-deb7-32.sh <br>
 3. # chmod +x ocs-deb7-32.sh <br>
 4. # ./ocs-deb7-32.sh<br>
 5. Ikuti proses sampai selesai <br>
@@ -37,7 +37,7 @@ Caranya:<br>
 Melakukan Konfigurasi Web SSH dan VPN Secara otomatis.<br>
 Caranya:<br>
 1. Login VPS<br>
-2. # wget https://raw.githubusercontent.com/rizal180499/Auto-Installer-VPS/master/simplewebssh/simplewebssh.sh <br>
+2. # wget https://raw.githubusercontent.com/kahetsema/Auto-Installer-VPS/master/simplewebssh/simplewebssh.sh <br>
 3. # chmod +x simplewebssh.sh <br>
 4. # ./simplewebssh.sh<br>
 5. Ikuti proses sampai selesai <br>
@@ -47,11 +47,9 @@ Caranya:<br>
 Konfigurasi stunnel secara otomatis.<br>
 Caranya:<br>
 1. LoginVPS<br>
-2. # wget https://raw.githubusercontent.com/rzengineer/Auto-Installer-VPS/master/deb7-stunnel.sh <br>
+2. # wget https://raw.githubusercontent.com/kahetsema/Auto-Installer-VPS/master/deb7-stunnel.sh <br>
 3. # chmod +x deb7-stunnel.sh <br>
 4. # ./deb7-stunnel.sh
 5. Ikuti proses sampai selesai <br>
 
-More Info Cek Blog : www.mastahit.com
-
-@sonedinjector
+Thanks tosonedinjector
